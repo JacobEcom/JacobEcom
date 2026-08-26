@@ -1,3 +1,6 @@
+<img width="2400" height="600" alt="GitHub_READ ME_Header" src="https://github.com/user-attachments/assets/6d8edb42-4058-4943-b454-a90dce2c7244" />
+
+
 <h1 data-importer="text" align="left">Hi 👋! My name is Jacob and I'm a the Creative Director at Ecom Optimization</h1>
 
 ###
