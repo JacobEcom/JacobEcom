@@ -1,7 +1,33 @@
 <img width="2400" height="600" alt="GitHub_READ ME_Header" src="https://github.com/user-attachments/assets/6d8edb42-4058-4943-b454-a90dce2c7244" />
 
 
-<h1 data-importer="text" align="left">Hi 👋! My name is Jacob and I'm a the Creative Director at Ecom Optimization</h1>
+<h1 data-importer="text" align="left">Shopify Development for Real Humans Emotions</h1>
+
+###
+
+<p data-importer="text" align="left">A Shopify store can be beautifully designed, technically sound, and still fail at its most important job: converting traffic into customers.<br><br>That's why our approach starts with the buyer journey.</p>
+
+###
+
+<h3 data-importer="text" align="left">Our Approach</h3>
+
+###
+
+<p data-importer="text" align="left">We combine Shopify design and development with over 2 decades of ecommerce conversion experience to build stores around the way customers actually shop, evaluate products, overcome objections, and make purchase decisions.<br><br>That's why our approach starts with the buyer journey.</p>
+
+###
+
+<h3 data-importer="text" align="left">Strategy → UX → Design → Development → Conversion</h3>
+
+###
+
+<p data-importer="text" align="left">We don't separate design from the sales process.<br><br>Before deciding what a page should look like, we consider what the customer needs to understand, believe, and do next.<br><br>That influences everything from page hierarchy and product merchandising to mobile UX, calls to action, social proof, objection handling, and technical implementation.<br><br>The result is Shopify development designed around one simple objective:<br>That's why our approach starts with the buyer journey.</p>
+
+###
+
+<h3 data-importer="text" align="left">Make it easier for the right customer to say 'yes'</h3>
+
+###
 
 ###
 
